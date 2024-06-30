@@ -51,8 +51,8 @@ params:
     title: "Welcome! \U0001F44B"
     subtitle: "Fun for Programming."
     imageUrl: "img/mock.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 240
+    imageHeight: 240
     imageTitle: "Data Professor"
     buttons:
       - name: Blogs
