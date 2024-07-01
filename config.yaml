@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "Fun for Programming."
+    subtitle: "Fun for Programming. If you wish to truly understand something, try to look at it from all directions. It never harms to listen to whatever anyone has to say about anything."
     imageUrl: "img/mock.jpg"
     imageWidth: 240
     imageHeight: 240
