@@ -1,7 +1,7 @@
 ---
 title: "Reflecting upon my time in Kyoto"
 date: 2024-07-04T18:08:32+09:00
-draft: true
+draft: false
 ---
 
 

@@ -58,10 +58,10 @@ params:
     imageHeight: 120
     imageTitle: "Data Professor"
     buttons:
-      # - name: Blogs
-        # url: blogs
-      # - name: Projects
-        # url: projects
+      - name: Quant Quest (Check it Out!)
+        url: https://github.com/andTEJAsan/quants_quest
+      - name: Market Making Limit Order Book
+        url: https://github.com/andTEJAsan/LimitOrderBook
 
   # home-info mode
   homeInfoParams:
@@ -144,7 +144,3 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
-projects:
-  - name: rollerball
-    description: "A fun rollerball game project"
-    link: "https://github.com/andTEJAsan/TCP_reliable_congestion_control"
