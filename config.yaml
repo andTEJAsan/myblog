@@ -115,6 +115,9 @@ menu:
       name: Blogs
       url: /blogs/
       weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
     # - identifier: projects
       # name: Projects
       # url: /projects/
@@ -141,3 +144,7 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+projects:
+  - name: rollerball
+    description: "A fun rollerball game project"
+    link: "https://github.com/andTEJAsan/TCP_reliable_congestion_control"
